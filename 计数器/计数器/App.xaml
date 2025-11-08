@@ -1,0 +1,9 @@
+﻿<!-- App.xaml - 应用程序定义 -->
+<Application x:Class="MultiFunctionCounter.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- 应用程序级资源可以在这里定义 -->
+    </Application.Resources>
+</Application>
